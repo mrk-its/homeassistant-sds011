@@ -1,7 +1,7 @@
 # homeassistant-sds011
  Home-Assistant Component for SDS011 Particulate Matter Sensor, with support for turning off sensor between measurements for longer laser life.
 
-Place the custom_components folder in your configuration directory (or add its contents to an existing custom_components folder).
+Place the sds011 directory in your configuration/custom_components directory
 
 Add the following to configuration.yml:
 ```
